@@ -1,4 +1,4 @@
-Internet2 Grouper Project
+INAF-CTA Grouper Project
 =========================
 
 http://www.internet2.edu/products-services/trust-identity-middleware/grouper/
